@@ -1,0 +1,22 @@
+{
+  "cssImports": {
+    "C:\\Users\\Samsung\\Downloads\\nextjs-latest-auth-main\\nextjs-latest-auth-main\\app\\layout.tsx": [
+      "C:\\Users\\Samsung\\Downloads\\nextjs-latest-auth-main\\nextjs-latest-auth-main\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "C:\\Users\\Samsung\\Downloads\\nextjs-latest-auth-main\\nextjs-latest-auth-main\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\Samsung\\Downloads\\nextjs-latest-auth-main\\nextjs-latest-auth-main\\app\\page": [
+      "C:\\Users\\Samsung\\Downloads\\nextjs-latest-auth-main\\nextjs-latest-auth-main\\app\\globals.css",
+      "C:\\Users\\Samsung\\Downloads\\nextjs-latest-auth-main\\nextjs-latest-auth-main\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "C:\\Users\\Samsung\\Downloads\\nextjs-latest-auth-main\\nextjs-latest-auth-main\\app\\dashboard\\page": [
+      "C:\\Users\\Samsung\\Downloads\\nextjs-latest-auth-main\\nextjs-latest-auth-main\\app\\globals.css",
+      "C:\\Users\\Samsung\\Downloads\\nextjs-latest-auth-main\\nextjs-latest-auth-main\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "C:\\Users\\Samsung\\Downloads\\nextjs-latest-auth-main\\nextjs-latest-auth-main\\app\\dashboard\\settings\\page": [
+      "C:\\Users\\Samsung\\Downloads\\nextjs-latest-auth-main\\nextjs-latest-auth-main\\app\\globals.css",
+      "C:\\Users\\Samsung\\Downloads\\nextjs-latest-auth-main\\nextjs-latest-auth-main\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
